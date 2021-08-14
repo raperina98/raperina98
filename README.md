@@ -63,10 +63,11 @@
 
 | Name                         | Description                                | Tech                    |
 | ---------------------------- | ------------------------------------------ | ----------------------- |
-|            |        |   |
-|        |           |  |
+| [algorithm]                  | Study of algorithm and data structures     | Python, JS e C++        |
   
 
+
+[algorithm]: <https://github.com/raperina98/algorithm-c>
 
 
 ### Github Stats ⭐
