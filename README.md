@@ -63,10 +63,11 @@
 
 | Name                         | Description                                | Tech                    |
 | ---------------------------- | ------------------------------------------ | ----------------------- |
+| [web-quick-prokects]         | Basic study about Web Development          | HTML, CSS e JS          |
 | [algorithm]                  | Study of algorithm and data structures     | Python, JS e C++        |
   
 
-
+[web-quick-prokects]: <https://github.com/raperina98/web-quick-projects>
 [algorithm]: <https://github.com/raperina98/algorithm-c>
 
 
