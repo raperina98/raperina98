@@ -12,7 +12,7 @@
 
 <br>
 
-###### Hi, my name is Perina and i'm a backend developer.
+> Hi, my name is Perina and i'm a backend developer.
 
 ###  💼 Work Experience
 ------------
