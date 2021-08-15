@@ -63,10 +63,12 @@
 
 | Name                         | Description                                | Tech                    |
 | ---------------------------- | ------------------------------------------ | ----------------------- |
+| [the-lord-of-the-rings]      | A website created using Angular and an api of "The Lord Of The Rings" 👑  | Angular |
 | [web-quick-prokects]         | Basic study about Web Development          | HTML, CSS e JS          |
 | [algorithm]                  | Study of algorithm and data structures     | Python, JS e C++        |
   
 
+[the-lord-of-the-rings]: <https://github.com/raperina98/the-lord-of-the-rings>
 [web-quick-prokects]: <https://github.com/raperina98/web-quick-projects>
 [algorithm]: <https://github.com/raperina98/algorithm-c>
 
