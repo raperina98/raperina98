@@ -63,7 +63,6 @@
 
 | Name                         | Description                                | Tech                    |
 | ---------------------------- | ------------------------------------------ | ----------------------- |
-| [the-lord-of-the-rings]      | A website created using Angular and an api of "The Lord Of The Rings" 👑  | Angular |
 | [web-quick-prokects]         | Basic study about Web Development          | HTML, CSS e JS          |
 | [algorithm]                  | Study of algorithm and data structures     | Python, JS e C++        |
   
