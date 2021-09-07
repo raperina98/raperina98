@@ -63,8 +63,6 @@
 
 | Name                         | Description                                | Tech                    |   Date                  |
 | ---------------------------- | ------------------------------------------ | ----------------------- | ----------------------- |
-| [api-inventory-control]   | API RESTFul em NodeJS para controle de estoque e venda de produtos 📦  | Node, PostgreSQl, ....    | 04/09/2021 — Until now  |
-| [the-lord-of-the-rings]     | A website created using Angular and an api of "The Lord Of The Rings" 👑  | Angular          | 16/08/2021 — `Stoped` |
 | [algorithm]                  | Study of algorithm and data structures     | Python, JS e C++        | `Undefined` — Until now  |
   
 - See all projects by clicking **[here]**
