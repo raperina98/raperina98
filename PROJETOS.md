@@ -10,8 +10,10 @@
 ### Studies
 | Name                         | Description                                | Tech                    |   Date                  |
 | ---------------------------- | ------------------------------------------ | ----------------------- | ----------------------- |
+| [rabbitmq-many-subscribers]  | Apenas brincando com o RabbitMQ 🐰 testando vários subscribers/consumers ouvindo uma fila.  | JS, DOCKER, RABBITMQ | 20/10/2021 — Finish  |
 | [api-surf-beach]   | Projeto de estudo de Typescript: Previsão de surf para as praias. Aulas do professor "Waldemar Neto - Dev Lab" 🏄🏻‍♂️  | TS, CI, JEST |07/09/2021 — Until now  |
 
+[rabbitmq-many-subscribers]: <https://github.com/raperina98/rabbitmq-many-subscribers>
 [api-surf-beach]: <https://github.com/raperina98/api-surf-beach>
 [api-inventory-control]: <https://github.com/raperina98/api-inventory-control>
 [the-lord-of-the-rings]: <https://github.com/raperina98/the-lord-of-the-rings>
