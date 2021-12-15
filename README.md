@@ -74,6 +74,6 @@
 
 
 ### Github Stats ⭐
-[![Rafael Perina' github stats](https://github-readme-stats.vercel.app/api?username=raperina98&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafael Perina' github stats](https://github-readme-stats.vercel.app/api?username=raperina98&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=raperina98.raperina98)
