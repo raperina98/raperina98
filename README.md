@@ -1,4 +1,4 @@
-# hi there, i am [raperina98](mailto:rafaelperina.98@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+# hi there, i am [raperina98](mailto:rafaelperina.98@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 <a target="_blank" href="https://www.linkedin.com/in/rafael-santos-perina-829419173">
